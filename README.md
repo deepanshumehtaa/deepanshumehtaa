@@ -3,11 +3,6 @@
 <p align="left"> <img src="https://raw.githubusercontent.com/some.gif" alt="hello" /> </p>
 -->
 
-![](https://visitor-badge.glitch.me/badge?page_id=deepanshumehtaa.deepanshumehta)
-<a href=https://github.com/TesseractCoding/NeoAlgo>
-   <img src=https://img.shields.io/badge/NeoAlgo-Contributor-brightgreen>
-</a>
-
 ## Who Am I?
 
 I'm an Software Engineer. I'm a Pythoneer who loves coding in Python along with other General-Purpose Languages like Go and Java. I'm passionate about ML/AI, and Web Development. 
@@ -35,3 +30,8 @@ I'm an Software Engineer. I'm a Pythoneer who loves coding in Python along with 
 <br />
 <br />
 
+
+![](https://visitor-badge.glitch.me/badge?page_id=deepanshumehtaa.deepanshumehtaa)
+<a href=https://github.com/TesseractCoding/NeoAlgo>
+   <img src=https://img.shields.io/badge/NeoAlgo-Contributor-brightgreen>
+</a>

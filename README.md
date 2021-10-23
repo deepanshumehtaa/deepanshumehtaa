@@ -25,7 +25,7 @@ I'm an Software Engineer. I'm a Pythoneer who loves coding in Python along with 
 
 
 <a href="https://github.com/deepanshumehtaa/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepanshumehtaa&show_icons=true&theme=radical&count_private=true" alt="Deepanshu Mehta github stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=deepanshumehtaa&show_icons=true&theme=radical&count_private=true" alt="Deepanshu Mehta github stats" width="600" height="370"/>
 </a>
 <br />
 <br />
